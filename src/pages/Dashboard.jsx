@@ -1,3 +1,7 @@
+/**
+ * Dashboard Page - Review analytics with KPI cards, sentiment trends, theme distribution, and reviews table.
+ * Route: /dashboard
+ */
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import {

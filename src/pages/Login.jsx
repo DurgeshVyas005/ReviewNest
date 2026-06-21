@@ -1,3 +1,7 @@
+/**
+ * Login Page - Authentication form with email/password, social login, and password visibility toggle.
+ * Route: /login
+ */
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import Navbar from "../components/Navbar";

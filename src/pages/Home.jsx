@@ -1,3 +1,7 @@
+/**
+ * Home Page - Landing page with Hero banner, feature cards, stats strip, and CTA section.
+ * Route: /
+ */
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import Card from "../components/Card";

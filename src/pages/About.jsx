@@ -1,3 +1,7 @@
+/**
+ * About Page - Company story, mission, values, and team members.
+ * Route: /about
+ */
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import {
