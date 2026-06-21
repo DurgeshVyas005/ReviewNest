@@ -23,7 +23,7 @@ export default function Login() {
     <div className="min-h-screen bg-surface flex flex-col">
       <Navbar />
 
-      <main className="flex-1 flex items-center justify-center bg-mesh py-28 px-4">
+      <main className="relative overflow-hidden flex-1 flex items-center justify-center bg-mesh py-28 px-4">
         {/* Decorative */}
         <div className="absolute top-32 left-1/4 w-72 h-72 bg-primary-500/15 rounded-full blur-[120px] pointer-events-none" />
         <div className="absolute bottom-20 right-1/4 w-64 h-64 bg-accent-500/10 rounded-full blur-[100px] pointer-events-none" />
