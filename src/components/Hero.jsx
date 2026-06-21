@@ -1,3 +1,7 @@
+/**
+ * Hero - Landing page banner with headline, CTAs, and animated dashboard mockup.
+ * Includes floating stat badges and decorative gradient orbs.
+ */
 import { Link } from "react-router-dom";
 import { HiArrowRight } from "react-icons/hi";
 

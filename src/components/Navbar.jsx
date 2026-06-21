@@ -1,3 +1,7 @@
+/**
+ * Navbar - Responsive navigation bar with glassmorphism styling.
+ * Features: sticky top nav, mobile hamburger menu, active link highlighting.
+ */
 import { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { HiOutlineMenu, HiOutlineX, HiOutlineUserCircle } from "react-icons/hi";
