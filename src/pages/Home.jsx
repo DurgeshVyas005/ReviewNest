@@ -2,6 +2,7 @@
  * Home Page - Landing page with Hero banner, feature cards, stats strip, and CTA section.
  * Route: /
  */
+import { Link } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import Card from "../components/Card";
@@ -119,13 +120,13 @@ export default function Home() {
             Join hundreds of hospitality teams already using ReviewNest to turn
             feedback into five-star service.
           </p>
-          <a
-            href="/dashboard"
+          <Link
+            to="/dashboard"
             className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-gradient-to-r from-primary-600 to-accent-600 text-white font-semibold shadow-lg shadow-primary-500/25 hover:shadow-primary-500/40 hover:scale-[1.02] active:scale-[0.98] transition-all duration-200"
             id="cta-bottom"
           >
             Start Free Trial
-          </a>
+          </Link>
         </div>
       </section>
 
