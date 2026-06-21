@@ -32,10 +32,10 @@ const values = [
 ];
 
 const team = [
-  { name: "Alex Chen", role: "CEO & Co-founder", avatar: "🧑‍💼" },
-  { name: "Maya Patel", role: "CTO & Co-founder", avatar: "👩‍💻" },
-  { name: "Jordan Rivera", role: "Head of AI", avatar: "🧑‍🔬" },
-  { name: "Sam Okafor", role: "Design Lead", avatar: "🎨" },
+  { name: "Durgesh Vyas", role: "Developer", avatar: "🧑‍💼" },
+  { name: "Rishav Singh Negi", role: "Developer", avatar: "👩‍💻" },
+  { name: "Happy", role: "Developer", avatar: "🧑‍🔬" },
+  { name: "Rahul Rana", role: "Developer", avatar: "🎨" },
 ];
 
 export default function About() {
