@@ -1,3 +1,7 @@
+/**
+ * App - Root component with React Router DOM page routing.
+ * Routes: / (Home), /about (About), /dashboard (Dashboard), /login (Login)
+ */
 import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
